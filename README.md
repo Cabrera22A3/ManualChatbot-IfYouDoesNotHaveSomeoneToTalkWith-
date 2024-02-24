@@ -1,4 +1,4 @@
-Hi, I am Dev-Pikachu! This GitHub Repository named as "ManualChatbot-KapagBrokenKaOrIDK" and this file named as "KapagWalaKangIna-Update".
+Hi, I am Dev-Pikachu! This GitHub Repository named as "ManualChatbot-IfYouDoesNotHaveSomeoneToTalkWith-" and this file named as "KapagWalaKangIna-Update".
 
 To Run this file in your computer:
 
